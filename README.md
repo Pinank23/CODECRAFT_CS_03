@@ -4,9 +4,9 @@
 
 # ⚡ **Cyb3r P@ss T00L** – Gen-Z Cyber Password Strength Analyzer 🔐🔥
 
-<div align="center">
+<center>
  
-<img src="https://dummyimage.com/900x250/2be34d/ed1d85.png&text=Cyb3r+P@ss+T00L" alt="Password Banner"/>
+<img src="https://dummyimage.com/900x250/2be34d/ed1d85.png&text=Cyb3r+P@ss+T00L" alt="Password Banner"/></center>
 
 Yo fam, meet Cyb3R P@ss T00L – a 🔥 Gen-Z style password strength & crack-time checker built with PyQt5! It’s basically a live vibe-check for your passwords. Get a strength bar, length counter, and a lit verdict on how long hackers would struggle to crack your password! Bruh, no cap, this thing serves full-on hacker-flex tips and glow-up advice as you type. 😎🔐
 

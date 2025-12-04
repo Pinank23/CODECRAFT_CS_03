@@ -1,58 +1,117 @@
-🎉 Cyb3r P@ss T00L – Gen-Z Password Strength Checker 🚀
 
-Dive into Cyb3r P@ss T00L, a fun & flashy password strength analyzer crafted for Gen-Z netizens. It gives you real-time feedback as you type, complete with a sleek dark mode and playful, slang-filled UI vibes. Level up your security game and make password checking feel like a cyberpunk adventure 🚀🔐.
 
-📸 Screenshot
+---
 
-Here's a peek at the Cyb3r P@ss T00L interface in action:
+# ⚡ **Cyb3r P@ss T00L** – Gen-Z Cyber Password Strength Analyzer 🔐🔥
+
+<div align="center">
+ 
+<img src="https://dummyimage.com/900x250/2be34d/ed1d85.png&text=Cyb3r+P@ss+T00L" alt="Password Banner"/>
+
+Yo fam, meet Cyb3R P@ss T00L – a 🔥 Gen-Z style password strength & crack-time checker built with PyQt5! It’s basically a live vibe-check for your passwords. Get a strength bar, length counter, and a lit verdict on how long hackers would struggle to crack your password! Bruh, no cap, this thing serves full-on hacker-flex tips and glow-up advice as you type. 😎🔐
+
+---
+
+## 🎨 **Screenshot Preview**
 
 ![screenshot](cyber pass.png)
 
+---
+
+---
+
+## 🚀 **Project Description**
+
+Cyb3r P@ss T00L is a **Linux-based GUI password auditor** built for those who love:
+
+* Dark UI themes
+* Neon cyber aesthetics
+* Savage_strength_meter vibes
+* Real-time brute-force estimation
+* Gen-Z styled UI messages (yes, it roasts weak passwords)
+
+It uses **PyQt5** + custom styling + password entropy math to deliver a snappy, modern experience.
+
+---
+
+## 📦 **Installation & Setup**
+
+### **1️⃣ Clone the repository**
+
+```bash
+git clone https://github.com/Pinank23/CODECRAFT_CS_03.git
+```
+
+### **2️⃣ Open the repo directory**
+
+```bash
+cd CODECRAFT_CS_03
+```
+
+### **3️⃣ Run the tool**
+
+```bash
+python3 cyberpasschecker.py
+```
+
+---
+
+## 💡 **Features**
+
+* ⚡ **Live strength meter** with animated color-coded progress bar
+* 🔢 **Entropy + brute-force attack time estimation**
+* 🎨 **Fully customized Gen-Z styled dark UI**
+* 👁 **Show/hide password toggle button**
+* ✨ **Glow-Up Tips** explaining missing password features
+* 🔐 **No password storage — 100% local processing**
+* 🧪 **PyQt5 GUI with smooth, responsive interaction**
+* **Privacy First 🛡️: Your password never leaves your machine. We don't store any keystrokes – guaranteed!**
+
+---
+
+## 🛠️ **Requirements**
+
+* Python **3.8+**
+* PyQt5
+  Install via:
+
+```bash
+pip install PyQt5
+```
+
+---
 
 
 
-📦 Installation & Setup
-
-Clone the repo: git clone https://github.com/YourUsername/CODECRAFT_CS_03.git
-
-Navigate into the directory: cd CODECRAFT_CS_03
-
-Run the tool: python3 cyberpasschecker.py
-
-(Make sure Python 3.x and PyQt5 are installed on your system!)
-
-💡 Features
-
-🔥 Real-time password strength meter that updates as you type
-
-⏱ Entropy & brute-force time estimation for how long a hacker would need
-
-🎨 Stylish dark mode UI with Gen-Z vibes and slang-laced feedback
-
-🐍 Built with PyQt5 and custom CSS styling for extra coolness
-
-✅ Requirements
-
-Python 3.x
-
-PyQt5 (pip install PyQt5)
-
-🔒 License
-Apache License Version 2.0, January 2004
-TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
-
-1. Definitions. "License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document. "Licensor" shall mean the copyright...
-...
-...
-END OF TERMS AND CONDITIONS
+---
 
 
-(Full Apache 2.0 license text as above.)
+## 🤝 **Contributing**
 
-🎯 Future Scope & Contribution
+Pull requests are welcomed.
+Whether you want to enhance UI glow, optimize entropy math, or add more Gen-Z roasts — everything helps the tool level up.
 
-Future Work: Plan to add multi-language support, passphrase analysis, and integration with password managers for an even stronger password flex.
+---
 
-Contributions: We 💖 pull requests, issues, and new ideas! Feel free to fork, star this repo, and help make Cyb3r P@ss T00L even more epic. Let's level up the tool together! 🚀
+## 🌌 **Future Improvements**
 
-Enjoy staying cyber-secure with a dash of Gen-Z flair!
+* Passphrase entropy mode
+* GPU brute-force estimation
+* Theme pack support (Neon blue, Sakura pink, Matrix green)
+* Cyber-sound effects for strength meter
+* Exportable password audit reports
+* Strong Password Generator
+* Password Strength Table
+* Pattern Analysis
+* Breach Check with haveibeenpwned api
+* Attack Timeline-See how long it would take to crack your password using different attack methods.
+
+---
+
+## 🎯 Final Note
+
+This tool isn’t just a password checker — it’s a **cyber vibe-check** for your digital identity.
+Give your passwords the glow-up they deserve 🔐✨.
+
+---
+

@@ -15,7 +15,7 @@ Yo fam, meet Cyb3R P@ss T00L – a 🔥 Gen-Z style password strength & crack-ti
 ## 🎨 **Screenshot Preview**
 
 ![screenshot](cyber pass.png)
-
+https://github.com/Pinank23/CODECRAFT_CS_03/blob/main/cyber%20pass.png?raw=true
 ---
 
 ---

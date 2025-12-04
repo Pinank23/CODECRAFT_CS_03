@@ -2,7 +2,7 @@
 
 ---
 
-<center><h1># ⚡ **Cyb3r P@ss T00L** – Gen-Z Cyber Password Strength Analyzer 🔐🔥</h1></center>
+# ⚡ **Cyb3r P@ss T00L** – Gen-Z Cyber Password Strength Analyzer 🔐🔥
 
 <center>
  
